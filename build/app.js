@@ -1,0 +1,1 @@
+function multiply(t,e){return t*e}console.log(multiply(25,800)),document.getElementById("date").innerHTML=(new Date).toDateString();
